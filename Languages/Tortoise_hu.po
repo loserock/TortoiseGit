@@ -11376,23 +11376,23 @@ msgstr "hét"
 
 #. Resource IDs: (89)
 msgid "wincred - all Windows users"
-msgstr ""
+msgstr "wincred - minden Windows felhasználó"
 
 #. Resource IDs: (88)
 msgid "wincred - current Windows user"
-msgstr ""
+msgstr "wincred - jelenlegi Windows felhasználó"
 
 #. Resource IDs: (88)
 msgid "wincred - this repository only"
-msgstr ""
+msgstr "wincred - csak ez a tároló"
 
 #. Resource IDs: (88)
 msgid "winstore - current Windows user"
-msgstr ""
+msgstr "winstore - jelenlegi Windows felhasználó"
 
 #. Resource IDs: (88)
 msgid "winstore - this repository only"
-msgstr ""
+msgstr "winstore - csak ez a tároló"
 
 #. Resource IDs: (245)
 msgid "year"
